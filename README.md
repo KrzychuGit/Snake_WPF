@@ -9,7 +9,7 @@
   The player who scored the most points is saved.
  </p>
 <p>
- This is a game with one and two players mode. 
+  <b>This is a game with one and two players mode. </b>
 </p>
 <p>
   <img src="./snake_img/2.png" width="80%"/>
@@ -18,7 +18,7 @@
   <img src="./snake_img/4.png" width="80%"/>
   </p>
   <p>
- In option we can on/off sounds. 
+  <b>In option we can on/off sounds. </b>
 </p>
 <p>
   <img src="./snake_img/3.png" width="80%"/>
